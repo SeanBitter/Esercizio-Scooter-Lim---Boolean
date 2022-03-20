@@ -1,0 +1,69 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  font-family: 'Didact Gothic', sans-serif;
+  box-sizing: border-box;
+  padding: 20px 90px 60px 90px;
+  line-height: 45%;
+}
+
+#container{
+  background-color: rgba(0,0,0,0.5);
+  border-radius: 10px;
+  width: 950px;
+  height: 700px;
+  margin: auto;
+}
+
+#logo{
+  width: 200px;
+}
+
+header{
+  padding-top: 95px;
+  width: 200px;
+  margin: auto;
+}
+
+.sottotitolo{
+  color: rgb(0, 255, 0);
+  text-align: center;
+}
+
+.intro{
+  display: inline-block;
+  background-color: rgb(0, 255, 0);
+  border-color: rgb(0, 255, 0);
+  border-width: 10px;
+  border-style: solid;
+  margin-left: 70px;
+  width: 790px;
+  text-align: center;
+}
+
+.sezioni{
+  color: white;
+  font-size: 14px;
+  margin-left: 70px;
+}
+
+.carica.gino{
+  width: 250px;
+  height: 20px;
+  background-color: rgb(247, 216, 0);
+  border-radius: 3px;
+}
+
+.carica.mike{
+  width: 400px;
+  height: 20px;
+  background-color: rgb(0, 180, 0);
+  border-radius: 3px;
+}
+
+.carica.fede{
+  width: 120px;
+  height: 20px;
+  background-color: rgb(160, 0, 20);
+  border-radius: 3px;
+}
